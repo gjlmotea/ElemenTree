@@ -1,0 +1,13 @@
+.nav-link {
+  color: black;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 black,
+  1px -1px 0 black,
+  -1px 1px 0 black,
+  1px 1px 0 black;
+  margin-right: 20px;
+}
+
+.nav-link.active {
+  color: lime;
+}
